@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\0BR4\\Desktop\\Faks\\WEB\\Projekat\\WEB-Projekat\\api\\WEB-Projekat.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "WEB-Projekat",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

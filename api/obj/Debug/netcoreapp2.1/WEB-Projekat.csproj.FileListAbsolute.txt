@@ -1,0 +1,14 @@
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\bin\Debug\netcoreapp2.1\WEB-Projekat.deps.json
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\bin\Debug\netcoreapp2.1\WEB-Projekat.runtimeconfig.json
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\bin\Debug\netcoreapp2.1\WEB-Projekat.runtimeconfig.dev.json
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\bin\Debug\netcoreapp2.1\WEB-Projekat.dll
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\bin\Debug\netcoreapp2.1\WEB-Projekat.pdb
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\obj\Debug\netcoreapp2.1\WEB-Projekat.csprojAssemblyReference.cache
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\obj\Debug\netcoreapp2.1\WEB-Projekat.csproj.CoreCompileInputs.cache
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\obj\Debug\netcoreapp2.1\WEB-Projekat.RazorAssemblyInfo.cache
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\obj\Debug\netcoreapp2.1\WEB-Projekat.RazorAssemblyInfo.cs
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\obj\Debug\netcoreapp2.1\WEB-Projekat.AssemblyInfoInputs.cache
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\obj\Debug\netcoreapp2.1\WEB-Projekat.AssemblyInfo.cs
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\obj\Debug\netcoreapp2.1\WEB-Projekat.RazorTargetAssemblyInfo.cache
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\obj\Debug\netcoreapp2.1\WEB-Projekat.dll
+C:\Users\0BR4\Desktop\Faks\WEB\Projekat\WEB-Projekat\obj\Debug\netcoreapp2.1\WEB-Projekat.pdb
